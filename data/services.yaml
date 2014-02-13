@@ -468,7 +468,7 @@ asianexgen:
   label: Asia Nexgen 
   countries: [cn]
   location: [cn]
-  icon: /favicon.png
+  icon: http://i.imgur.com/ke6aEeA.png
   url: https://anx.hk/
   content: <p>ASIA NEXGEN provides an easy, secure, and affordable marketplace for you to buy and sell Bitcoins.</p>
   coins: [btc]
